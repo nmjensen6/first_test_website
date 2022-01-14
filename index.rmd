@@ -1,0 +1,5 @@
+# Welcome to my amazing Website!
+
+This website is a demo I made for the data carpentry workshop.
+
+R is very confusing!
